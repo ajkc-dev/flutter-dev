@@ -1,0 +1,2 @@
+# Powerlevel10k
+
